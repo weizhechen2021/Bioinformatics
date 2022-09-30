@@ -1,7 +1,6 @@
-# RiboWave 
+# I writting mu Homework 
 
-RiboWave is a funtional Ribo-seq analysis tool to identify translated ORF based on Ribo-seq data.
-
+Homework is a little bit challenging for me. I just write something randomly. 
 
 The RiboWave workflow consists of:
 
@@ -401,6 +400,3 @@ An example file is packed and found in [here](http://lulab.life.tsinghua.edu.cn/
 
 Enclosed in the RiboWave_v1.0.tar.gz, `run_Ribowave_dmel.sh` combines all the steps together into a pipeline. 
 
-## For any questions, please contact:
-
-Zhiyu Xu [xanthexu18@gmail.com]
